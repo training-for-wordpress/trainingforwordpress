@@ -1,19 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//vigilant-swirles-0b735e.netlify.com/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//learwordpresswithgrace.com/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc>https://vigilant-swirles-0b735e.netlify.com/post-sitemap.xml</loc>
+		<loc>https://learwordpresswithgrace.com/post-sitemap.xml</loc>
 		<lastmod>2019-02-17T03:14:18+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://vigilant-swirles-0b735e.netlify.com/page-sitemap.xml</loc>
-		<lastmod>2019-03-09T05:07:41+00:00</lastmod>
+		<loc>https://learwordpresswithgrace.com/page-sitemap.xml</loc>
+		<lastmod>2019-03-09T17:09:00+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://vigilant-swirles-0b735e.netlify.com/category-sitemap.xml</loc>
+		<loc>https://learwordpresswithgrace.com/category-sitemap.xml</loc>
 		<lastmod>2019-02-17T03:14:18+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://vigilant-swirles-0b735e.netlify.com/author-sitemap.xml</loc>
+		<loc>https://learwordpresswithgrace.com/author-sitemap.xml</loc>
 		<lastmod>2019-02-17T02:49:03+00:00</lastmod>
 	</sitemap>
 </sitemapindex>
