@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//vigilant-swirles-0b735e.netlify.com/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//learwordpresswithgrace.com/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://vigilant-swirles-0b735e.netlify.com/category/installations/</loc>
+		<loc>https://learwordpresswithgrace.com/category/installations/</loc>
 		<lastmod>2018-10-05T12:25:17+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://vigilant-swirles-0b735e.netlify.com/category/wordpress-hosting/</loc>
+		<loc>https://learwordpresswithgrace.com/category/wordpress-hosting/</loc>
 		<lastmod>2019-02-17T03:14:18+00:00</lastmod>
 	</url>
 </urlset>
